@@ -1,0 +1,266 @@
+[
+    {
+        "file": "2023_11_02__10_32_31.wav",
+        "result": "Recognized: перед на башмак, Command: вперед на башмак, Match Ratio: 0.97"
+    },
+    {
+        "file": "2023_11_02__10_32_48.wav",
+        "result": "Recognized: перед башмака, Command: вперед с башмака, Match Ratio: 0.90"
+    },
+    {
+        "file": "2023_11_02__10_33_18.wav",
+        "result": "Recognized: вышел из вагона пространство, Command: вышел из межвагонного пространства, Match Ratio: 0.84"
+    },
+    {
+        "file": "2023_11_02__10_33_44.wav",
+        "result": "Recognized: вышел мир вагонного пространство, Command: вышел из межвагонного пространства, Match Ratio: 0.85"
+    },
+    {
+        "file": "2023_11_02__10_34_00.wav",
+        "result": "Recognized: вышел из же вагонного пространство, Command: вышел из межвагонного пространства, Match Ratio: 0.91"
+    },
+    {
+        "file": "2023_11_02__10_34_29.wav",
+        "result": "Recognized: захожу между вагоны пространств, Command: захожу в межвагонное,пространство, Match Ratio: 0.81"
+    },
+    {
+        "file": "2023_11_02__10_34_43.wav",
+        "result": "Recognized: назад на башмак, Command: назад на башмак, Match Ratio: 1.00"
+    },
+    {
+        "file": "2023_11_02__10_35_10.wav",
+        "result": "Recognized: назад башмака, Command: назад с башмака, Match Ratio: 0.93"
+    },
+    {
+        "file": "2023_11_02__10_35_22.wav",
+        "result": "Recognized: начать о сажу они, Command: начать осаживание, Match Ratio: 0.76"
+    },
+    {
+        "file": "2023_11_02__10_35_35.wav",
+        "result": "Recognized: отпустить, Command: отпустить, Match Ratio: 1.00"
+    },
+    {
+        "file": "2023_11_02__10_36_01.wav",
+        "result": "Recognized: задеть на базе на вагонов, Command: осадить на (количество) вагон, Match Ratio: 0.56"
+    },
+    {
+        "file": "2023_11_02__10_36_21.wav",
+        "result": "Recognized: осадить на восемь вагонов, Command: осадить на (количество) вагон, Match Ratio: 0.70"
+    },
+    {
+        "file": "2023_11_02__10_37_05.wav",
+        "result": "Recognized: варить на возьми два вагоны, Command: осадить на (количество) вагон, Match Ratio: 0.57"
+    },
+    {
+        "file": "2023_11_02__10_38_20.wav",
+        "result": "Recognized: осадить на восемьдесят девять вагон, Command: осадить на (количество) вагон, Match Ratio: 0.59"
+    },
+    {
+        "file": "2023_11_02__10_38_34.wav",
+        "result": "Recognized: посадить на восемьдесят один вагон, Command: осадить на (количество) вагон, Match Ratio: 0.60"
+    },
+    {
+        "file": "2023_11_02__10_38_50.wav",
+        "result": "Recognized: задеть на восемьдесят пять вагонов, Command: осадить на (количество) вагон, Match Ratio: 0.51"
+    },
+    {
+        "file": "2023_11_02__10_39_18.wav",
+        "result": "Recognized: обходить того сильвестри вагона, Command: осадить на (количество) вагон, Match Ratio: 0.57"
+    },
+    {
+        "file": "2023_11_02__10_39_33.wav",
+        "result": "Recognized: осадить на восемьдесят четыре вагон, Command: осадить на (количество) вагон, Match Ratio: 0.59"
+    },
+    {
+        "file": "2023_11_02__10_39_47.wav",
+        "result": "Recognized: осадить на восемь шесть вагона, Command: осадить на (количество) вагон, Match Ratio: 0.71"
+    },
+    {
+        "file": "2023_11_02__10_40_00.wav",
+        "result": "Recognized: осадить на восемьдесят шесть вагона, Command: осадить на (количество) вагон, Match Ratio: 0.66"
+    },
+    {
+        "file": "2023_11_02__10_40_14.wav",
+        "result": "Recognized: ходить назвал вагон, Command: осадить на (количество) вагон, Match Ratio: 0.62"
+    },
+    {
+        "file": "2023_11_02__10_40_27.wav",
+        "result": "Recognized: осадить на восемь два года, Command: осадить на (количество) вагон, Match Ratio: 0.65"
+    },
+    {
+        "file": "2023_11_02__10_40_40.wav",
+        "result": "Recognized: осадить на два вагон, Command: осадить на (количество) вагон, Match Ratio: 0.73"
+    },
+    {
+        "file": "2023_11_02__10_40_54.wav",
+        "result": "Recognized: завидную двадцать вагон, Command: начать осаживание, Match Ratio: 0.40"
+    },
+    {
+        "file": "2023_11_02__10_41_09.wav",
+        "result": "Recognized: залить на двадцать восемь вагон, Command: осадить на (количество) вагон, Match Ratio: 0.57"
+    },
+    {
+        "file": "2023_11_02__10_41_36.wav",
+        "result": "Recognized: осадить анонс вагона, Command: осадить на (количество) вагон, Match Ratio: 0.69"
+    },
+    {
+        "file": "2023_11_02__10_41_50.wav",
+        "result": "Recognized: алфавита двадцать девять вагона, Command: осадить на (количество) вагон, Match Ratio: 0.43"
+    },
+    {
+        "file": "2023_11_02__10_42_06.wav",
+        "result": "Recognized: содействия двадцать два вагонов, Command: осадить на (количество) вагон, Match Ratio: 0.40"
+    },
+    {
+        "file": "2023_11_02__10_42_19.wav",
+        "result": "Recognized: видно двадцать пять вагон, Command: осадить на (количество) вагон, Match Ratio: 0.48"
+    },
+    {
+        "file": "2023_11_02__10_42_33.wav",
+        "result": "Recognized: осадить о двадцать пять вагона, Command: осадить на (количество) вагон, Match Ratio: 0.54"
+    },
+    {
+        "file": "2023_11_02__10_42_46.wav",
+        "result": "Recognized: ходить на двадцать вагон, Command: осадить на (количество) вагон, Match Ratio: 0.60"
+    },
+    {
+        "file": "2023_11_02__10_42_59.wav",
+        "result": "Recognized: сходить на два пути вагон, Command: осадить на (количество) вагон, Match Ratio: 0.59"
+    },
+    {
+        "file": "2023_11_02__10_43_25.wav",
+        "result": "Recognized: двадцать четыре вагона, Command: осадить на (количество) вагон, Match Ratio: 0.55"
+    },
+    {
+        "file": "2023_11_02__10_43_37.wav",
+        "result": "Recognized: ходить на двадцать шесть вагона, Command: осадить на (количество) вагон, Match Ratio: 0.60"
+    },
+    {
+        "file": "2023_11_02__10_43_52.wav",
+        "result": "Recognized: аппетитно двенадцать вагон, Command: осадить на (количество) вагон, Match Ratio: 0.47"
+    },
+    {
+        "file": "2023_11_02__10_44_23.wav",
+        "result": "Recognized: ходить на один вагон, Command: осадить на (количество) вагон, Match Ratio: 0.69"
+    },
+    {
+        "file": "2023_11_02__10_44_41.wav",
+        "result": "Recognized: один два года, Command: осадить на (количество) вагон, Match Ratio: 0.43"
+    },
+    {
+        "file": "2023_11_02__10_45_10.wav",
+        "result": "Recognized: время пятнадцать вагон, Command: начать осаживание, Match Ratio: 0.46"
+    },
+    {
+        "file": "2023_11_02__10_45_36.wav",
+        "result": "Recognized: ходить на пять вагонов, Command: осадить на (количество) вагон, Match Ratio: 0.63"
+    },
+    {
+        "file": "2023_11_02__10_45_51.wav",
+        "result": "Recognized: сидит на семь, Command: осадить на (количество) вагон, Match Ratio: 0.43"
+    },
+    {
+        "file": "2023_11_02__10_46_25.wav",
+        "result": "Recognized: при вагоны, Command: протянуть на (количество) вагон, Match Ratio: 0.44"
+    },
+    {
+        "file": "2023_11_02__10_46_38.wav",
+        "result": "Recognized: осадить на три вагона, Command: осадить на (количество) вагон, Match Ratio: 0.72"
+    },
+    {
+        "file": "2023_11_02__10_47_09.wav",
+        "result": "Recognized: остановки, Command: остановка, Match Ratio: 0.89"
+    },
+    {
+        "file": "2023_11_02__10_47_22.wav",
+        "result": "Recognized: , No matches found."
+    },
+    {
+        "file": "2023_11_02__10_47_35.wav",
+        "result": "Recognized: отказ, Command: отказ, Match Ratio: 1.00"
+    },
+    {
+        "file": "2023_11_02__10_47_48.wav",
+        "result": "Recognized: обмена, Command: отмена, Match Ratio: 0.83"
+    },
+    {
+        "file": "2023_11_02__10_48_00.wav",
+        "result": "Recognized: отца, Command: отцепка, Match Ratio: 0.73"
+    },
+    {
+        "file": "2023_11_02__10_48_13.wav",
+        "result": "Recognized: охлаждения, Command: подтверждение, Match Ratio: 0.52"
+    },
+    {
+        "file": "2023_11_02__10_48_41.wav",
+        "result": "Recognized: прекрати заявку тормозной магистрали, Command: прекратить зарядку тормозной магистрали, Match Ratio: 0.93"
+    },
+    {
+        "file": "2023_11_02__10_48_56.wav",
+        "result": "Recognized: продолжаем роспуск, Command: продолжаем роспуск, Match Ratio: 1.00"
+    },
+    {
+        "file": "2023_11_02__10_49_10.wav",
+        "result": "Recognized: массажа, Command: начать осаживание, Match Ratio: 0.42"
+    },
+    {
+        "file": "2023_11_02__10_49_22.wav",
+        "result": "Recognized: рожаю массажу, Command: продолжаем осаживание, Match Ratio: 0.47"
+    },
+    {
+        "file": "2023_11_02__10_49_36.wav",
+        "result": "Recognized: протянуть на восемнадцать вагон, Command: протянуть на (количество) вагон, Match Ratio: 0.68"
+    },
+    {
+        "file": "2023_11_02__10_49_56.wav",
+        "result": "Recognized: на два года, Command: назад на башмак, Match Ratio: 0.38"
+    },
+    {
+        "file": "2023_11_02__10_50_25.wav",
+        "result": "Recognized: протянул двенадцать вагон, Command: протянуть на (количество) вагон, Match Ratio: 0.61"
+    },
+    {
+        "file": "2023_11_02__10_50_38.wav",
+        "result": "Recognized: двадцать шесть вагон, Command: осадить на (количество) вагон, Match Ratio: 0.57"
+    },
+    {
+        "file": "2023_11_02__10_50_53.wav",
+        "result": "Recognized: одинокие, Command: подтверждение, Match Ratio: 0.48"
+    },
+    {
+        "file": "2023_11_02__10_51_06.wav",
+        "result": "Recognized: протянул это пятнадцатого года, Command: протянуть на (количество) вагон, Match Ratio: 0.43"
+    },
+    {
+        "file": "2023_11_02__10_51_19.wav",
+        "result": "Recognized: протянуть ты нас, Command: растянуть автосцепки, Match Ratio: 0.56"
+    },
+    {
+        "file": "2023_11_02__10_51_32.wav",
+        "result": "Recognized: жестяной нас вагон, Command: осадить на (количество) вагон, Match Ratio: 0.43"
+    },
+    {
+        "file": "2023_11_02__10_51_50.wav",
+        "result": "Recognized: афина тряпки, Command: растянуть автосцепки, Match Ratio: 0.44"
+    },
+    {
+        "file": "2023_11_02__10_52_03.wav",
+        "result": "Recognized: же так просто, Command: захожу в межвагонное,пространство, Match Ratio: 0.39"
+    },
+    {
+        "file": "2023_11_02__10_52_16.wav",
+        "result": "Recognized: здесь, Command: назад с башмака, Match Ratio: 0.30"
+    },
+    {
+        "file": "2023_11_02__10_52_29.wav",
+        "result": "Recognized: кармоди, Command: тормозить, Match Ratio: 0.50"
+    },
+    {
+        "file": "2023_11_02__10_52_41.wav",
+        "result": "Recognized: тормози, Command: тормозить, Match Ratio: 0.88"
+    },
+    {
+        "file": "2023_11_02__10_52_54.wav",
+        "result": "Recognized: тормози, Command: тормозить, Match Ratio: 0.88"
+    }
+]
